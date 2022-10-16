@@ -1,1 +1,2 @@
 # GraphQL-Playground
+- Javascript
